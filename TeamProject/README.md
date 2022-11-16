@@ -1,7 +1,5 @@
 # 팀프로젝트
 
-## 팀프로젝트 리스트
-
 ### [스마트 팜 프로젝트](https://github.com/sexymonster/Projects/tree/main/TeamProject/smart_farm)
     우리는 작물의 수확량 예측을 제공하고, 기후 통제 전략을 제안하며, 좋은 농작물 생산과 시장 수요를 동기화할 수 있습니다.
     
