@@ -35,5 +35,5 @@
 데이터베이스 서버 구축을 하지 못하여 로컬머신에 데이터베이스를 구축하였다. 서버를 별도로 구축한다면 어플리케이션이 좀 더 가볍게 작동할 것이고 목표로 했던 기능들도 구현할 수 있을 것이다.
 
 
-program file repo : [링크](https://github.com/sexymonster/Projects-TeamProject-Doeat)
+program file repo : [링크](https://github.com/sexymonster/Projects-TeamProject-Doeat)\
 modeling repo : [링크](https://github.com/sexymonster/DO_EAT)
