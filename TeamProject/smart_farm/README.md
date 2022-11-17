@@ -36,4 +36,4 @@
 * 이전 생산량을 모델에 활용한 것이 모델의 성능 개선에 많이 도움 된 것으로 보아 추세도 중요한 요인임을 확인
 
 
-program file repo : [링크](https://github.com/sexymonster/Projects/new/main/TeamProject)
+program file repo : link
